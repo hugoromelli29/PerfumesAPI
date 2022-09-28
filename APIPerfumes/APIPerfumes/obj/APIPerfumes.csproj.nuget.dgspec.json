@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hugo\\Desktop\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj": {}
+    "C:\\Users\\Hugo\\Desktop\\pasta\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hugo\\Desktop\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj": {
+    "C:\\Users\\Hugo\\Desktop\\pasta\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj",
+        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\pasta\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj",
         "projectName": "APIPerfumes",
-        "projectPath": "C:\\Users\\Hugo\\Desktop\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj",
+        "projectPath": "C:\\Users\\Hugo\\Desktop\\pasta\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj",
         "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hugo\\Desktop\\APIPerfumes\\APIPerfumes\\obj\\",
+        "outputPath": "C:\\Users\\Hugo\\Desktop\\pasta\\APIPerfumes\\APIPerfumes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QQa9bv84EapiOtm2KBhtt3VwhAz6X4rJxQE+LD1PIpUDXeEHk28K1hyd34oAS6xDT9DNOcTs2sP4ZJDhziHpQ==",
+  "dgSpecHash": "uu/9z7fdgdj02vXDYAg9eJtAWKkITz/q2eayr5ZREOh5neneLdX3CnZzB6IIYEUJt4Cb2GPm4MPKfLFvFA//Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hugo\\Desktop\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj",
+  "projectFilePath": "C:\\Users\\Hugo\\Desktop\\pasta\\APIPerfumes\\APIPerfumes\\APIPerfumes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hugo\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Hugo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
